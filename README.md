@@ -102,8 +102,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ### OUTPUT:
-
-![EXPER1](https://github.com/AJAYASWIN-M/19AI405ExpNo1/assets/118679692/5320abd5-2624-4370-b2ab-6971cfe4eb4c)
+![Screenshot 2024-02-21 111252](https://github.com/AJAYASWIN-M/19AI405ExpNo1/assets/118679692/7bcf0595-f490-416d-b142-f256fd24e355)
 
 ### RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented  using
